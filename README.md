@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ClaudioMobe
-- 👀 I’m interested in so so so so many things. I am an aerospace engineering student (actually coursing the fifth period out of ten), but I also love to seek for new     knowledge it doesn´t matter of what kind.
-- 🌱 I’m currently learning Web Development, at the moment I know HTML, CSS and I consider myself intermediate in JavaScript. Right now I am learning React.js in my path   for becoming a front-end developer.
+- 👋 Hi, my name is Claudio Morales
+- 👀 I am interested in so so so so many things. I am an aerospace engineering student (actually coursing the fifth period out of ten), but I also love to seek for new     knowledge it doesn´t matter of what kind.
+- 🌱 I am a front end developer with strong knowledge of HTML5, CSS3 and JavaScript. To develope I feel very comfortable using React.
 - 📫 You can reach me on Facebook, Instagram or Twitter as Claudio Mobe
 
 <!---
