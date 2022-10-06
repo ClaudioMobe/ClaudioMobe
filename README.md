@@ -1,7 +1,6 @@
-- 👋 Hi, my name is Claudio Morales
-- 👀 I am interested in so so so so many things. I am an aerospace engineering student (actually coursing the fifth period out of ten), but I also love to seek for new     knowledge it doesn´t matter of what kind.
-- 🌱 I am a front end developer with strong knowledge of HTML5, CSS3 and JavaScript. To develope I feel very comfortable using React.
-- 📫 You can reach me on Facebook, Instagram or Twitter as Claudio Mobe
+Hello, I am Claudio Morales, I am an aerospace engineering student and I love to learn everything I can about the world that we live in :)  
+
+My first contact with programming was in High School, but I experienced it in an old an iterative way that didn't get my attention. Then, in college, I discovered the wonders of this discipline and I started to learn it on my own. I consider myself a junior Front End Developer with knowledge of HTML5, CSS3 and JavaScript. Lately, I learned React JS and that's what I am using to develope my personal projects.
 
 <!---
 ClaudioMobe/ClaudioMobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
